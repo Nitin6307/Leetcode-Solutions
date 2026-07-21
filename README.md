@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
