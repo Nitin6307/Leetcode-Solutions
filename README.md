@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -113,10 +114,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0046-permutations) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Nitin6307/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
